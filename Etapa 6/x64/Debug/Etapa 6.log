@@ -1,0 +1,21 @@
+﻿  Etapa 6.cpp
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(420,135): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(420,54): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(437,32): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(437,32): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(437,65): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(437,65): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(457,83): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(457,43): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(575,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(576,8): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(581,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(582,8): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(588,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(595,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(803,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\Etapa 6.cpp(810,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+  tgload.cpp
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 6\tgload.cpp(52,49): warning C4244: 'argumento': conversión de 'unsigned int' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+  Etapa 6.vcxproj -> C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\x64\Debug\Etapa 6.exe

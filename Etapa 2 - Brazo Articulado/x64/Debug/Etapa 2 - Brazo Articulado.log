@@ -1,0 +1,4 @@
+﻿  Etapa 2 - Brazo Articulado.cpp
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 2 - Brazo Articulado\Etapa 2 - Brazo Articulado.cpp(35,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 2 - Brazo Articulado\Etapa 2 - Brazo Articulado.cpp(47,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Etapa 2 - Brazo Articulado.vcxproj -> C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\x64\Debug\Etapa 2 - Brazo Articulado.exe

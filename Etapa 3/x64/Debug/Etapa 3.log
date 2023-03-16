@@ -1,0 +1,6 @@
+﻿  Etapa 3.cpp
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 3\Etapa 3.cpp(92,135): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 3\Etapa 3.cpp(92,54): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 3\Etapa 3.cpp(117,83): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\Etapa 3\Etapa 3.cpp(117,43): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Etapa 3.vcxproj -> C:\Users\Joan\OneDrive - Universitat de les Illes Balears\3r curs\Informàtica Gràfica\Práctica Final\PracticasIG\x64\Debug\Etapa 3.exe
